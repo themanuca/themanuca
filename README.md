@@ -1,7 +1,6 @@
 ## Sergio Manoel
   
-#### I'm from Brazil ✨ I'm an Information System student :computer: at the moment I'm learning Reactjs and Nodejs
-
+#### I'm from Brazil ✨ I'm an Information System student :computer: software developer
 ##
 #### 🌎Always looking for knowledge and challenges🐱‍💻
 
