@@ -1,6 +1,6 @@
 ## Sergio Manoel
   
-#### I'm from Angola ✨ I'm an Information System student :computer: software developer
+#### I'm from Dinamark ✨ I'm an Information System student :computer: software developer
 ##
 #### 🌎Always looking for knowledge and challenges🐱‍💻
 
