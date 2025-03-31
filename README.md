@@ -3,7 +3,7 @@
 #### Hi there! 👋 ✨ I’m a passionate Software Developer with solid experience in .NET, C#, ASP.NET, Angular, React, and Next.js.
 ##
 #### 🚀 Always learning, building, and solving challenges.
-#### 🌎 Open to new opportunities and collaborations!
+
 #### 💻 Let’s create something amazing together.
 
  ##
